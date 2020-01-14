@@ -1,20 +1,13 @@
-#top {
-	font-size: 250% ;
-	display : block ;
-	margin-left : auto ;
-	margin-right : auto ;
-	margin-bottom : 20px ;
-	text-align : center ;
-}
 body {
 	counter-reset : row ;
 }
 table {
 	border-collapse : collapse ;
+	width : 100% ; 
 }
 th {
-	background : lightgray ;
 	font-weight : normal ;
+	text-decoration : underline ;
 }
 tr:hover {
 	border-color : black ;
