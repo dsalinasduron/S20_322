@@ -19,4 +19,7 @@ table {
 	font-size : 125% ;
 	background-color : LightPink ;
 }
-
+.subsection {
+	display : block ;
+	font-weight : bold ;
+}
